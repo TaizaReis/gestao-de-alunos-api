@@ -1,0 +1,26 @@
+[
+  {
+    "aluno": {
+      "nome": "Mariana Costa",
+      "email": "mariana.costa@exemplo.com",
+      "senha": "senhaSegura123",
+      "matricula": "20260001"
+    },
+    "trabalho": {
+      "titulo": "Entrega de Testes Unitários",
+      "descricao": "Resolução dos exercícios práticos com asserções completas."
+    }
+  },
+  {
+    "aluno": {
+      "nome": "Lucas Martins",
+      "email": "lucas.martins@exemplo.com",
+      "senha": "senhaSegura456",
+      "matricula": "20260002"
+    },
+    "trabalho": {
+      "titulo": "Automação de API com Supertest",
+      "descricao": "Cobertura dos cenários de teste de integração da camada de serviço."
+    }
+  }
+]
